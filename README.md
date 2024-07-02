@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Rockson and I'm a TECH FINANCIAL ANALYST, from KNUST </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/l57pETf1QH7hqeLNEx/giphy.gif?cid=790b7611mthpko3cdxtp2gwzejo66r4460tdnkhh284mcdkp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
